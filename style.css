@@ -162,6 +162,7 @@ html {
 
 .left-sect {
   width: 60%;
+  padding: 0px 24px 24px 24px;
 }
 .left-sect h2 {
   font-size: 2.4rem;
@@ -197,6 +198,10 @@ html {
 }
 .now-box p {
   padding-top: 16px;
+}
+
+.now-box img {
+  width: 20%;
 }
 .box-txt {
   padding-left: 16px;

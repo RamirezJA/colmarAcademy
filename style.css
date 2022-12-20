@@ -185,6 +185,7 @@ html {
   display: flex;
   flex-direction: column;
   padding-top: 32px;
+  width: 30%;
 }
 
 .now-box {
@@ -199,7 +200,6 @@ html {
 }
 .box-txt {
   padding-left: 16px;
-  font-size: 2rem;
 }
 
 .thesis {
